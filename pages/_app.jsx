@@ -11,7 +11,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Web Developer | Mark Mead</title>
+        <title>Web Developer | Didik Kamseno</title>
         <meta
           name="description"
           content="Creator of HyperUI and an eCommerce developer using the TALL stack and Shopify."
@@ -19,7 +19,7 @@ function MyApp({ Component, pageProps }) {
         />
         <meta
           property="og:title"
-          content="Web Developer | Mark Mead"
+          content="Web Developer | Didik Kamseno"
           key="og:title"
         />
         <meta
@@ -28,11 +28,11 @@ function MyApp({ Component, pageProps }) {
           key="og:description"
         />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.markmead.dev/" />
-        <meta property="og:image" content="https://www.markmead.dev/og.jpg" />
+        <meta property="og:url" content="https://www.didikkamseno.com/" />
+        <meta property="og:image" content="https://www.didikkamseno.com/deka.jpg" />
         <meta
           name="twitter:title"
-          content="Web Developer | Mark Mead"
+          content="Web Developer | Didik Kamseno"
           key="twitter:title"
         />
         <meta
@@ -40,9 +40,9 @@ function MyApp({ Component, pageProps }) {
           content="Creator of HyperUI and an eCommerce developer using the TALL stack and Shopify."
           key="twitter:description"
         />
-        <meta name="twitter:image" content="https://www.markmead.dev/og.jpg" />
+        <meta name="twitter:image" content="https://www.didikkamseno.com/deka.jpg" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:url" content="https://www.markmead.dev/" />
+        <meta name="twitter:url" content="https://www.didikkamseno.com/" />
         <link rel="icon" href="https://fav.farm/💐" />
       </Head>
 
