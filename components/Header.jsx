@@ -48,7 +48,7 @@ export default function Header() {
           <a
             target="_blank"
             rel="noreferrer nofollow"
-            href="https://twitter.com/itsmarkmead"
+            href="https://twitter.com/didikkamseno"
             className="text-slate-600 hover:text-slate-700 dark:text-slate-300 dark:hover:text-slate-200"
           >
             <span className="sr-only"> Twitter </span>
@@ -66,7 +66,7 @@ export default function Header() {
           <a
             target="_blank"
             rel="noreferrer nofollow"
-            href="https://github.com/markmead"
+            href="https://github.com/didikkamseno"
             className="text-slate-600 hover:text-slate-700 dark:text-slate-300 dark:hover:text-slate-200"
           >
             <span className="sr-only"> GitHub </span>
