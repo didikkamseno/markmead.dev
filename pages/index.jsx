@@ -17,7 +17,7 @@ import Projects from '../components/Projects'
 export default function Index({ posts, projects }) {
   return (
     <article className="prose max-w-none prose-slate dark:prose-invert">
-      <h1>Mark Mead</h1>
+      <h1>Didik Kamseno</h1>
 
       <p className="lead">
         Welcome to my website. Here you will find posts about things.
