@@ -40,6 +40,8 @@ page will be refreshed to show the correct price for that currency.
 
 This works fine when changing the currency through Livewire.
 
+![alt text](/og.jpg)
+
 However, when switching the locale it sets the currency to the default currency
 which works fine on initial load, but when Livewire does a POST request when a
 component updates, for example when adding to the cart, it resets back to the
